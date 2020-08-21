@@ -1,7 +1,7 @@
 ---
 title: Assignment 1
 subtitle: Computer performance, reliability, and scalability calculation
-author: Jane Doe
+author: Marlene Aviles
 ---
 
 ## 1.2 
@@ -10,14 +10,14 @@ author: Jane Doe
 
 | Data Item                                  | Size per Item | 
 |--------------------------------------------|--------------:|
-| 128 character message.                     | ? Bytes       |
-| 1024x768 PNG image                         | ? MB          |
-| 1024x768 RAW image                         | ? MB          | 
-| HD (1080p) HEVC Video (15 minutes)         | ? MB          |
+| 128 character message.                     | 128 Bytes     |
+| 1024x768 PNG image                         | 0.46 MB       |
+| 1024x768 RAW image                         | 1.5 MB        | 
+| HD (1080p) HEVC Video (15 minutes)         | 53,393.55 MB  |
 | HD (1080p) Uncompressed Video (15 minutes) | ? MB          |
 | 4K UHD HEVC Video (15 minutes)             | ? MB          |
-| 4k UHD Uncompressed Video (15 minutes)     | ? MB          |
-| Human Genome (Uncompressed)                | ? GB          |
+| 4k UHD Uncompressed Video (15 minutes)     | 30 MB         |
+| Human Genome (Uncompressed)                | 1.5 GB        |
 
 #### b. Scaling
 
@@ -44,8 +44,8 @@ author: Jane Doe
 
 |                           | One Way Latency      |
 |---------------------------|---------------------:|
-| Los Angeles to Amsterdam  | ? ms                 |
-| Low Earth Orbit Satellite | ? ms                 |
-| Geostationary Satellite   | ? ms                 |
-| Earth to the Moon         | ? ms                 |
-| Earth to Mars             | ? minutes            | 
+| Los Angeles to Amsterdam  | 0.38 ms              |
+| Low Earth Orbit Satellite | 20 ms                |
+| Geostationary Satellite   | 300 ms               |
+| Earth to the Moon         | 1280 ms              |
+| Earth to Mars             | 15 minutes           | 
